@@ -1,6 +1,10 @@
 /* lg */ 
 @media (min-width: 1400px) {
-	
+	.search {
+	    display: block;
+	    position: absolute;
+	    right: 290px;
+	}
 }
 
 /* md */
