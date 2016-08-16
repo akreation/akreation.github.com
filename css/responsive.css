@@ -1,0 +1,254 @@
+/* lg */ 
+@media (min-width: 1400px) {
+	
+}
+
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+.section_title p {
+  font-size: 18px;
+  padding: 0 70px 30px;
+}
+.section_title h2 {
+  font-size: 22px;
+  padding-bottom: 5px;
+}
+.section_padding {
+  padding: 45px 0;
+}
+.services {
+  margin-top: 35px;
+}
+.call_t_action_area {
+  background-size: cover;
+}
+.call_to_action_btn {
+  margin-top: 100px;
+}
+
+
+}
+
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+.slider_content h2 {
+  font-size: 35px;
+}
+.slider_content span {
+  font-size: 70px;
+  line-height: 85px;
+}
+.hero_area {
+  padding-bottom: 50px;
+  padding-top: 140px;
+}
+a.btn-slider {
+  font-size: 16px;
+  margin-bottom: 50px;
+  margin-top: 40px;
+  padding: 10px 50px;
+}
+.section_title h2 {
+  font-size: 22px;
+  padding-bottom: 5px;
+}
+.section_title p {
+  font-size: 16px;
+  padding: 0 20px 30px;
+}
+.section_padding {
+  padding: 45px 0;
+}
+img.about_img {
+  width: 100%;
+}
+.about_right_content::after {
+  display: none;
+}
+.border_g {
+  border-width: 0;
+}
+.single_serviec img {
+  width: 100%;
+}
+.services {
+  margin-top: 0px;
+}
+.single_serviec {
+  margin-top: 20px;
+}
+.call_t_action_area {
+  background-size: cover;
+  padding-bottom: 45px;
+}
+.call_to_action_btn {
+  margin-top: 0;
+}
+.btn_call_to_action {
+  font-size: 20px;
+  padding: 12px 40px;
+}
+.maps_area .col-md-4 {
+  padding-left: 0;
+}
+
+#map {
+  height: 428px;
+  width: 100%;
+}
+
+}
+
+
+/* xs */
+@media (max-width: 767px) {
+
+	.section_padding {
+	  padding: 35px 0;
+	}
+	.slider_content h2 {
+		font-size: 27px;
+	}
+	.slider_content span {
+	  font-size: 45px;
+	  line-height: 75px;
+	}
+	a.btn-slider {
+	  border-radius: 2px;
+	  font-size: 14px;
+	  margin-bottom: 25px;
+	  margin-top: 15px;
+	  padding: 8px 35px;
+	}
+	.hero_area {
+	  padding-bottom: 25px;
+	  padding-top: 130px;
+	}
+	.section_title h2 {
+	  font-size: 20px;
+	  padding-bottom: 0;
+	}
+	.section_title h2 span {
+	  font-size: 22px;
+	}
+	.section_title p {
+	  font-size: 16px;
+	  padding: 0 18px 30px;
+	}
+	.border_g {
+	  border-width: 0;
+	}
+	.about_right_content::after {
+	  display: none;
+	}
+	.about_right_content {
+	  text-align: center;
+	}
+	.about_right_content {
+	  margin-left: 0;
+	  margin-top: 30px;
+	  padding: 0 10px;
+	}
+	.about_right_content h2 {
+	  font-size: 20px;
+	}
+	.about_right_content p {
+	  font-size: 14px;
+	  padding-bottom: 0;
+	}
+	.services_top .section_title p {
+	  font-size: 14px;
+	  padding: 0 18px 50px;
+	}
+	.single_serviec img {
+	  width: 100%;
+	}
+	.services{
+    margin-top: 0px;
+  }
+  .services_top .section_title p {
+	  font-size: 14px;
+	  padding: 0 18px;
+	}
+	.services_area {
+	  margin-bottom: 15px;
+	}
+	.single_serviec {
+	  margin-bottom: 15px;
+	}
+	.single_service-area{
+    padding-bottom: 35px;
+  }
+  .call_t_action_area {
+	  background-size: cover;
+	  padding-bottom: 45px;
+	}
+	.call_to_action_btn {
+	  margin-top: 0;
+	}
+	.maps_area .col-md-4 {
+	  padding-left: 0;
+	}
+	.footer_content p {
+	  font-size: 14px;
+	  padding: 14px 0;
+	}
+	.contact_form_top.section_title h2 {
+	  font-size: 20px;
+	  padding-bottom: 10px;
+	}
+	.contact_form_top.section_title h3 {
+	  font-size: 18px;
+	  text-transform: uppercase;
+	}
+	.contact_form_top.section_title p {
+	  font-size: 14px;
+	  padding: 10px 0 0;
+	}
+	#map{
+	  height: 440px;
+	}
+	.contact_form_area {
+	  left: 0;
+	  max-width: 100%;
+	}
+
+/* about page responsvie */
+.navbar-brand img {
+  width: 65%;
+}
+.header .section_title h2 {
+  font-size: 30px;
+  padding-top: 20px;
+}
+.aboutus_area {
+  padding: 35px 0;
+}
+.aboutus_content {
+  margin-top: 0;
+  padding: 15px 5px 30px;
+}
+.aboutus_content h2 {
+  font-size: 20px;
+  padding-bottom: 0;
+}
+.aboutus_content p {
+  font-size: 14px;
+  padding-bottom: 0;
+}
+.single_team {
+  margin: 20px;
+  text-align: center;
+}
+
+
+
+}
+
+/* XS Portrait */
+
+@media (max-width: 479px) {
+
+
+}
+
