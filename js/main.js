@@ -156,12 +156,12 @@ $(document).ready(function(){
     // -------------------------------------------------------------
 
     
-    $(function(){
-          $("#search").typed({
-            strings: ["First sentence.", "Second sentence."],
-            typeSpeed: 30;
-          });
-      });
+    // $(function(){
+    //       $("#search").typed({
+    //         strings: ["First sentence.", "Second sentence."],
+    //         typeSpeed: 30;
+    //       });
+    //   });
       
     // -------------------------------------------------------------
     //  Search
